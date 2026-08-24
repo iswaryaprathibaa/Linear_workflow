@@ -1,0 +1,11 @@
+id,name,email,age,city
+101,  John Miller , JOHN.MILLER@Example.com , 34,San Francisco
+102,Sara Connor,sara@example.com,twenty-nine,Dallas
+103,Mike Ross,MIKE@example.com ,45, Houston
+104,,priya@example.com,26,Atlanta
+105,Nina Patel,nina@example.com,-3,Phoenix
+106, Tom Baker,tom@EXAMPLE.com,52,Orlando
+107,Sara Connor,sara@example.com,29,Dallas
+108,Leo Wong,invalid-email,31,San Jose
+109,Amy Clark,amy@example.com,,Tampa
+110,David Reed,DAVID@Example.com,60,Reno
