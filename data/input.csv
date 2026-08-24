@@ -1,0 +1,10 @@
+id,name,email,age,city
+1,  Alice Smith , ALICE@Example.com , 29,New York
+2,Bob Jones,bob@example.com,thirty-two,Chicago
+3,Carol Lee,CAROL@example.com ,41, Boston
+4,,dave@example.com,25,Austin
+5,Eve Adams,eve@example.com,-5,Seattle
+6, Frank Moore,frank@EXAMPLE.com,38,Denver
+2,Bob Jones,bob@example.com,32,Chicago
+7,Grace Kim,not-an-email,27,Miami
+8,Henry Ford,henry@example.com,,Portland
